@@ -26,6 +26,3 @@ The analysis was developed into an **interactive Power BI dashboard** to allow u
 - Average **happiness with salary score**: 4.26 / 10.  
 
 ---
-
-
-🔗 [LinkedIn](https://linkedin.com/in/elizabeth-oladejo-015245229) | [GitHub](https://github.com/yourusername)  
